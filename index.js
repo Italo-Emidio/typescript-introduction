@@ -10,3 +10,4 @@ const exeRequest = async () => {
     console.log(res.data.title);
 };
 exeRequest();
+
